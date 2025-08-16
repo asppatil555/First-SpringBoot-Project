@@ -8,4 +8,6 @@ import org.springframework.stereotype.Repository;
                                                         //EntityClass, wrapperclass
 public interface DeveloperRepository extends JpaRepository<Developer, Integer>
 {
+
+
 }
